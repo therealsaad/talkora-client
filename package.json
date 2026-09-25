@@ -1,6 +1,7 @@
 {
   "name": "my-project",
   "version": "0.1.0",
+  "packageManager": "pnpm@10.18.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -42,4 +43,5 @@
       "hono": "4.12.25"
     }
   }
+  
 }
